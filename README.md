@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VictoryaMetetlica
 - 👀 I’m interested in coding that's why in august 2022 I decided to learn Python from zero level. I do a course by course with the help of education platform stepik.org.
 
-  The most interesting for me is a data science - a machine learning, because I did statistical processing of measurements data for pharmacy during 8 years..
+  The most interesting for me is a data science - a machine learning, because I did a statistical processing of measurements data for pharmacy during 8 years..
    
 - 🌱 I’m currently learning https://stepik.org/users/529024265/profile.
 - 💞️ I’m looking to collaborate on the machine learning.
